@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
-
+# Data Extraction Project
 # Initialize an empty list to store the data
 data = []
 
